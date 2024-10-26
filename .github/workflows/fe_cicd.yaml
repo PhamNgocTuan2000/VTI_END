@@ -5,12 +5,12 @@ on:
     branches:
         - master
     paths:
-      - 'applications/frontend/**'
+      - 'app/frontend/**'
   pull_request:
     branches:
       - master
     paths:
-      - 'applications/frontend/**'
+      - 'app/frontend/**'
 
 env:
   AWS_REGION: ap-northeast-1

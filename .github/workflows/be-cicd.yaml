@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'applications/backend/**'
+      - 'app/backend/**'
 
 env:
   AWS_REGION: ap-northeast-1
