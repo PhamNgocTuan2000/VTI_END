@@ -4,7 +4,7 @@ import boto3
 import psycopg2
 import json
 
-app = Flask(__name__)
+app = Flask(__name__)   
 
 # Create a session with credentials
 session = boto3.Session(
