@@ -1,0 +1,6 @@
+db_username = "tuan2103"
+db_password = "tuanpassword"
+s3_bucket_name = "tuan-bucket"
+ecr_repository_name = "backend"
+eks_cluster_name = "tuan-cluster"
+db_name="tuandb"
